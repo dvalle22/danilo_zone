@@ -1,2 +1,2 @@
-# danilo_zone
-Just a little web app to display some of my work. 
+# danilo's zone
+Just a little web app that I made to display some of my work. 
